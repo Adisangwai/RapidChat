@@ -2,10 +2,10 @@
   "name": "rapidchat",
   "version": "1.0.0",
   "description": "Realtime chat app with rooms",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server",
-    "dev": "nodemon server"
+    "start": "node index.js"
+
   },
   "author": "Aditya Sangwai",
   "license": "MIT",
